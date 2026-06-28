@@ -1,4 +1,4 @@
-# 🧬 Autômato Celular com Matriz Esparsa — ED1 TP2
+# 🧬 Autômato Celular com Matriz Esparsa
 
 Implementação do **Jogo da Vida de Conway** para a disciplina de Estrutura de Dados I utilizando **matriz esparsa com listas encadeadas** como estrutura de dados para representação do tabuleiro. Apenas as células vivas são armazenadas, economizando memória em cenários com baixa densidade de células.
 
